@@ -1,0 +1,17 @@
+.title {
+    display: grid;
+    justify-content: center;
+}
+
+.link {
+    display: grid;
+    justify-content: center;
+    background-color: green;
+    padding: 10px;
+    color: white;
+}
+
+.description {
+    display: grid;
+    justify-content: center;
+}
